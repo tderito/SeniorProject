@@ -1,0 +1,19 @@
+.website-container {
+    margin-left: 0;
+    margin-right: 0;
+    padding: 0; 
+}
+
+.home-img {
+    width: 100%;
+    height: 600px
+}
+
+.home-heading {
+    color: white; 
+}
+
+.nav-button {
+    background-color: red; 
+    color: white
+}
