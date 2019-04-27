@@ -6,7 +6,9 @@
 
 .home-img {
     width: 100%;
-    height: 600px
+    height: 600px;
+    padding: 0;
+    margin: 0;
 }
 
 .home-heading {
@@ -14,6 +16,33 @@
 }
 
 .nav-button {
-    background-color: red; 
-    color: white
+    background-color: #B22222;
+    color: white;
+    outline: #B22222;
+    
+}
+
+.side-background {
+    background-color: #B22222;
+}
+
+.headshot {
+    width: 200px;
+    height: 300px;
+}
+
+.side-text {
+    text-align: center;
+    color: white;
+}
+
+.page-header {
+    height: 150px; 
+    background-color: #B22222;
+}
+
+.page-text {
+    color: white;
+    padding-top: 90px;
+    padding-left: 40px;
 }
