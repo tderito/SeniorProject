@@ -5,10 +5,12 @@
 }
 
 .home-img {
-    width: 100%;
-    height: 600px;
+    width: 1200px;
+    height: 625px;
     padding: 0;
     margin: 0;
+    padding-top: 20px;
+    background-color: #B22222;
 }
 
 .home-heading {
@@ -19,7 +21,15 @@
     background-color: #B22222;
     color: white;
     outline: #B22222;
-    
+}
+.nav-btn {
+    padding: 0;
+}
+
+.nav-style {
+    padding-top: 10px; 
+    padding-left: 50px; 
+    width: 100%
 }
 
 .side-background {
@@ -29,6 +39,7 @@
 .headshot {
     width: 200px;
     height: 300px;
+    padding-top: 10px;
 }
 
 .side-text {
@@ -37,12 +48,16 @@
 }
 
 .page-header {
-    height: 150px; 
+    height: 100px; 
     background-color: #B22222;
 }
 
 .page-text {
     color: white;
-    padding-top: 90px;
+    padding-top: 40px;
     padding-left: 40px;
+}
+
+.footer-row {
+    padding-top: 10px;
 }
